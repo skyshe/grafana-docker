@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM centos6.7
 
 ENV GRAFANA_VERSION 2.1.3
 
